@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/peripherals/sensors/dhtxx", 
+  "ver": "latest", 
+  "name": "DHTXX"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/bmp180", 
+  "ver": "latest", 
+  "name": "BMP180"
+ }, 
+ {
+  "path": "/packages/peripherals/ssd1306", 
+  "ver": "latest", 
+  "name": "SSD1306"
+ }
+]
